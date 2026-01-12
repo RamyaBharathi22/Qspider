@@ -9,6 +9,7 @@ public class Demo1_Test {
 	public void SchoolTest()
 	{
 		System.out.println("School");
+		System.out.println("College");
 	}
 
 
