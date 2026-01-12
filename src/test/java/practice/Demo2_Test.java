@@ -7,6 +7,7 @@ public class Demo2_Test {
 	public void HPTest()
 	{
 		System.out.println("Harry");
+		System.out.println("Harrypotter");
 	}
 
 }
