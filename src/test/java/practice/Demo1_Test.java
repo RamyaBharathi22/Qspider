@@ -10,6 +10,7 @@ public class Demo1_Test {
 	{
 		System.out.println("School");
 		System.out.println("College");
+		System.out.println("Student");
 	}
 
 
